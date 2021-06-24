@@ -10,4 +10,3 @@ let b = "texto";
 let c = true;
 let d = [];
 ```
-
