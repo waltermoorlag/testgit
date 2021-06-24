@@ -8,6 +8,6 @@ console.log('prbando codigo en readme')
 let a = 3;
 let b = "texto";
 let c = true;
-let d = {};
+let d = [];
 ```
 
